@@ -1,2 +1,2 @@
 # progetto_finalee 
-un bot Discord che ti fai dei riasunti dei siti e ti dice se sono affidali o meno
+un bot Discord dove tu gli dai un link e lui ti fa un riassunto  e ti dice se è affidabile o meno
